@@ -77,7 +77,7 @@ DATABASES = {
     "default": {
         "ENGINE": "django.contrib.gis.db.backends.postgis",
         "NAME": "geoparadox",
-        "USER": "",
+        "USER": "postgres",
         "PASSWORD": "",
         "HOST": "localhost",
         "PORT": "",
